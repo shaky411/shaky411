@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shaky411
 - 👀 I’m interested in ... Tech|Design|Space
-- 🌱 I’m currently learning ...SwiftUI
+- 🌱 I’m currently learning ...SwiftUI and Front End Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... shaky411@gmail.com
 
