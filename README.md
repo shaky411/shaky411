@@ -2,9 +2,17 @@
 
 ## About me
 
-- Hi, I’m `Marc.` I am currently learning all aspects of Front End Development and pursuing my ambition of becoming a full time developer.
+- Hi, I’m **Marc.** I am currently learning all aspects of Front End Development and pursuing my ambition of becoming a full time developer.
 
 - Outside the  world of tech, I enjoy spending time with my wife and 2 daughters. Snow-boarding, surfing and long country walks.
+
+<br>
+
+## Location:
+
+Bristol UK
+
+<br>
 
 ## I’m currently learning ...Front End Web Development:
 
